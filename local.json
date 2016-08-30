@@ -1,3 +1,4 @@
 {
-  "local": 1234
+  "local": 1234,
+  "thisRepo": false
 }

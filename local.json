@@ -3,5 +3,6 @@
   "thisRepo": false,
   "testingBranches": "local master",
   "testingShellscript": "deploy",
-  "testingAgain": true
+  "testingAgain": true,
+  "again": true
 }

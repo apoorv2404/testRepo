@@ -1,5 +1,6 @@
 {
   "local": 1234,
   "thisRepo": false,
-  "testingBranches": "local master"
+  "testingBranches": "local master",
+  "testingShellscript": "deploy"
 }

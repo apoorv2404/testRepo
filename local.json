@@ -5,7 +5,7 @@
   "testingShellscript": "deploy",
   "testingAgain": true,
   "again": true,
-  "testingMailer": true,
   "testingMailerAgain": true,
-  "testingMailer": 3
+  "testingMailer": 3,
+  "testingMailer4": 4
 }

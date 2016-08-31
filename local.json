@@ -4,5 +4,6 @@
   "testingBranches": "local master",
   "testingShellscript": "deploy",
   "testingAgain": true,
-  "again": true
+  "again": true,
+  "testingMailer": true
 }

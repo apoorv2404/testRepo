@@ -8,5 +8,6 @@
   "testingMailerAgain": true,
   "testingMailer": 3,
   "testingMailer4": 4,
-  "testingMailer5": 5
+  "testingMailer5": 5,
+  "testingErrorMail": 1
 }

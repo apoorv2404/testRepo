@@ -6,5 +6,6 @@
   "testingAgain": true,
   "again": true,
   "testingMailer": true,
-  "testingMailerAgain": true
+  "testingMailerAgain": true,
+  "testingMailer": 3
 }
